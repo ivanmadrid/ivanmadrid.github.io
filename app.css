@@ -2,8 +2,13 @@
 
 }
 
+.main-hero {
+    max-height: 706px;
+}
+
 .presentation {
     padding-top: 3rem !important;
+    padding-bottom: 5rem !important;
 }
 
 .info {
@@ -17,7 +22,7 @@
 }
 
 .avatar {
-    opacity: .8;
+    opacity: .9;
 }
 
 .is-horizontal-center {
@@ -39,6 +44,58 @@
 
 .color-primary {
     color: #3281ff;
+}
+
+.title {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.skills-box {
+    font-family: 'Noto Sans JP', sans-serif;
+    height: auto;
+    min-height: 408px;
+
+}
+
+.skills-section {
+    padding-bottom: 5rem;
+}
+
+.iconset {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.skill-title {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.skill-icon {
+    height: 30px;
+    width: 30px;
+    margin:5px;
+}
+
+.form-container {
+
+
+}
+
+.contact-section {
+    background-image: linear-gradient(141deg,#1f191a 0,#363636 71%,#46403f 100%);
+    background-color: #363636;
+    padding-bottom: 5rem;
+
+}
+
+.is-white {
+    color: #f5f5f5;
+}
+
+.github-icon {
+    width: 60px;
+    height: 60px;
+
 }
 
 #flow span {
